@@ -1,0 +1,27 @@
+Customer Segmentation Report
+==============================
+
+Segment 0 Profile:
+- Number of Customers: 58
+- Average Age: 56.2 years
+- Average Spending Score: 42.5
+-> Suggested Action: Target this older group with low spending tendencies. Provide promotional discounts, bundle offers, and value-based marketing to increase spending.
+------------------------------
+Segment 1 Profile:
+- Number of Customers: 57
+- Average Age: 30.2 years
+- Average Spending Score: 82.4
+-> Suggested Action: Target this younger group with high spending tendencies. Offer premium products, VIP perks, and early access to new releases to build loyalty.
+------------------------------
+Segment 2 Profile:
+- Number of Customers: 42
+- Average Age: 26.4 years
+- Average Spending Score: 50.5
+-> Suggested Action: Target this younger group with high spending tendencies. Offer premium products, VIP perks, and early access to new releases to build loyalty.
+------------------------------
+Segment 3 Profile:
+- Number of Customers: 43
+- Average Age: 39.1 years
+- Average Spending Score: 17.7
+-> Suggested Action: Target this younger group with low spending tendencies. Provide promotional discounts, bundle offers, and value-based marketing to increase spending.
+------------------------------
